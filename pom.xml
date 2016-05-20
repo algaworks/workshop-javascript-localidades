@@ -44,4 +44,10 @@
 		</plugins>
 	</build>
 
+	<scm>
+		<connection>scm:git:git@github.com:algaworks/workshop-javascript-localidades.git</connection>
+		<url>scm:git:git@github.com:algaworks/workshop-javascript-localidades.git</url>
+		<developerConnection>scm:git:git@github.com:algaworks/workshop-javascript-localidades.git</developerConnection>
+	</scm>
+
 </project>
